@@ -10,4 +10,4 @@ A college activity once but I actually liked the concept and started adding feat
 # VERSION 2.0
 + Added a time logging system
 + Fixed whenever the user is prompted with "Do you want to continue the program" entering a small letter gives an error
-- Decreased line size (code size or whatever idk)
++ Optimized the code a bit
