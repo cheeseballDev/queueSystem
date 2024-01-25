@@ -1,5 +1,5 @@
 # queueSystem
-College activity but I actually liked the concept and started adding features! (currently learning mongodb to java)
+A college activity once but I actually liked the concept and started adding features! (currently learning mongodb to java)
 
 Changes will be logged here
 
