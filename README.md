@@ -1,5 +1,5 @@
 # queueSystem
-SCHOOL ACTIVITY => A console-based queueing system made in java.
+College activity but I actually liked the concept and started adding features! (currently learning mongodb to java)
 
 Changes will be logged here
 
