@@ -11,3 +11,6 @@ A college activity once but I actually liked the concept and started adding feat
 + Added a time logging system
 + Fixed whenever the user is prompted with "Do you want to continue the program" entering a small letter gives an error
 + Optimized the code a bit
+
+# VERSION 2.1
+- Removed one line of code
